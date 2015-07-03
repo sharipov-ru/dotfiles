@@ -1,0 +1,16 @@
+.idea/*
+xls/*
+
+.bundle/*
+db/*.sqlite3
+log/*.log
+tmp/*
+vendor/bundle/*
+vendor/cache/*
+public/assets/
+vendor/assets/
+public/uploads/*
+tmp/*
+log/*
+*.gliffy
+*.svg
