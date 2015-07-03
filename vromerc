@@ -1,0 +1,15 @@
+# My VIM keybindings for Google Chrome
+# Available options: https://github.com/jinzhu/vrome/wiki/vromerc-example-file
+
+# jump by 10
+map j 10j
+map k 10k
+
+# keep only one true vim-way to go back/forward (C-o and C-i)
+unmap H
+unmap L
+unmap <M-f>
+
+# switch tabs
+map <C-l> gt
+map <C-h> gT
